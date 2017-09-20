@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="spark-streaming-powerbi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_streaming_powerbi_jar</output-path>
+    <root id="archive" name="spark-streaming-powerbi.jar">
+      <element id="module-output" name="spark-streaming-powerbi" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/azure/spark-streaming-eventhubs_2.11/2.0.4/spark-streaming-eventhubs_2.11-2.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
