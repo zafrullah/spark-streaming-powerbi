@@ -1,4 +1,7 @@
-*/target/**
-*/out/*
+.classpath
+.project
+.settings/
+target/
+out/
 *.log
 *.class
